@@ -1,0 +1,4 @@
+serviceUrl.defaultZone=http://localhost:8889/eureka/
+discovery.enabled=true
+discovery.serviceId=bigdata-config-server
+server.port=8881
